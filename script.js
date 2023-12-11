@@ -1,5 +1,5 @@
-let weight = Number(prompt('Please enter your weight in kg'))
-let height = Number(prompt('Please enter your height in metres'))
+let weight = Number(prompt('Please enter your weight in kg.'))
+let height = Number(prompt('Please enter your height in metres.'))
 let index = weight/(height*2)
 
 
